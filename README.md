@@ -1,16 +1,23 @@
 # eTuristickaAgencija
 ## RS2 seminarski rad
 
-## *Kredencijali za prijavu
-Username: admin
-Password: test
+## Kredencijali za prijavu
 
-Mobile
-Username: mobile
-password: test
+- Administrator
 
-Kredencijali za placanje
-Broj kartice: 4242 4242 4242 4242 
-CVC: 123
-Country: United States
-ZIP Code: 4222
+  ```
+  Korisnicko ime: admin
+  Password: admin
+  ```
+- Test
+
+  ```
+  Korisnicko ime: test
+  Password: test
+  ```
+
+#### Kredencijali za placanje
+
+  ```
+  Broj kartice: 4242 4242 4242 4242
+  ```
