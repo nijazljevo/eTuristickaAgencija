@@ -3,16 +3,16 @@
 
 ## Kredencijali za prijavu
 
-- Administrator
+- Admin/API
 
   ```
   Korisnicko ime: admin
-  Password: admin
+  Password: test
   ```
 - Test
 
   ```
-  Korisnicko ime: test
+  Korisnicko ime: mobile
   Password: test
   ```
 
@@ -20,4 +20,7 @@
 
   ```
   Broj kartice: 4242 4242 4242 4242
+  CVC: 123
+  Country: United States
+  ZIP Code: 4222
   ```
