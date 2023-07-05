@@ -1,7 +1,7 @@
 # eTuristickaAgencija
 ## RS2 seminarski rad
 
-## Kredencijali za prijavu
+## *Kredencijali za prijavu
 Username: admin
 Password: test
 
