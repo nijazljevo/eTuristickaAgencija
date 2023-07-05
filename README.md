@@ -1,7 +1,7 @@
 # eTuristickaAgencija
 ## RS2 seminarski rad
 
-API i desktop
+## Kredencijali za prijavu
 Username: admin
 Password: test
 
